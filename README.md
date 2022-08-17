@@ -1,2 +1,2 @@
 # FighterAPI
-API containing the UFS roster
+API containing the UFC roster
